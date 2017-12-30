@@ -37,7 +37,4 @@ function preserveDecimal(n)
 {
   return (parseFloat(n))
 }
-function preserveDecimal(n)
-{
-  if(n)
-}
+
